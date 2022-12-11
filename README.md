@@ -27,6 +27,10 @@ _`3. Удаление данных`_
 
 ![сохранено](https://user-images.githubusercontent.com/114774477/206880139-ade19ffd-8cbd-49f0-8b9e-c1509f7b3133.PNG)
 
+Как можно видеть, данные добавились в таблицу и, соответственно, в базу даннх:
+
+![добавить новая](https://user-images.githubusercontent.com/114774477/206896100-98bb36e3-6c2f-4ea2-97b5-a6662858666e.PNG)
+
 Также можно вернуться в предыдущее окно:
 
 ![назад](https://user-images.githubusercontent.com/114774477/206879657-612a762b-9ee5-4424-be0e-d40d12d79a57.PNG)
